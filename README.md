@@ -1,1 +1,1 @@
-# Giftastic-UPDATED
+# GifTastic

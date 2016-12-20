@@ -1,0 +1,35 @@
+
+
+#animalButtons {
+	margin-top: 20px;
+}
+
+.theAnimal {
+	margin: 5px;
+	background-color: rosybrown;
+	color: white;
+	height: 50px;
+	width: 100px;
+
+}
+
+label {
+	font-size: 20px;
+	margin-right: 5px;
+}
+
+#addAnimal {
+	background-color: rosybrown;
+	color: white;
+
+}
+
+p {
+	float: left;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.animalGifs {
+	float: left;
+}
